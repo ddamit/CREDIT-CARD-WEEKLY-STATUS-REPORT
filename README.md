@@ -71,5 +71,7 @@ Activation Rate: 57.5%
 - 🔮 Scalability: Can be extended to predictive analytics (default prediction, segmentation)
 
 ## Dashboard Image: 
-- <a href= "https://github.com/ddamit/CREDIT-CARD-WEEKLY-STATUS-REPORT/blob/main/Credit_transaction%20_Report_page-0001.jpg">Credit Card Transaction Report</a>
+![Credit_Card_Report_Customer_page-0001](https://github.com/user-attachments/assets/549415d7-579c-4d12-8c67-78c36f291533)
+![Credit_transaction _Report_page-0001](https://github.com/user-attachments/assets/a015380f-b502-487b-9fba-0f836e50ac19)
+
 
