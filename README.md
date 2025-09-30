@@ -69,3 +69,6 @@ Activation Rate: 57.5%
 - ⚠️ Risk Management: Early delinquency detection improves customer risk profiling
 - 🎯 Customer Strategy: Target campaigns for Blue & Silver cardholders in TX, NY, CA
 - 🔮 Scalability: Can be extended to predictive analytics (default prediction, segmentation)
+
+## Dashboard Image: 
+https://github.com/ddamit/CREDIT-CARD-WEEKLY-STATUS-REPORT/blob/main/Credit_transaction%20_Report_page-0001.jpg
