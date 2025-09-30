@@ -12,7 +12,7 @@ This project is intended for:
 - Business Intelligence Analysts
 - Data Science/Analytics learners exploring real-world BI use cases
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 The dashboard was developed using the following tools and technologies:
 - 📊 Power BI Desktop – Data visualization & report creation
