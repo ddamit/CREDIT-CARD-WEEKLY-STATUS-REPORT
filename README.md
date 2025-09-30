@@ -7,7 +7,8 @@ A dynamic Power BI Dashboard designed to provide real-time insights into credit 
 The Credit Card Weekly Dashboard is an analytical Power BI report built to track and analyze credit card performance metrics. It enables management to monitor revenue, customer growth, transaction volumes, delinquency rates, and card usage patterns on a weekly basis.
 
 This project is intended for:
-Banking & Financial Services teams
+. Banking & Financial Services teams
+
 
 Risk Management & Fraud Monitoring units
 
