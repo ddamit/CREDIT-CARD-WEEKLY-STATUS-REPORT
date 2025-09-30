@@ -33,7 +33,7 @@ Columns: Client_Num, Customer_Age, Gender, Education_Level, Income, Cust_Satisfa
 📌 Data is structured to combine operational performance + customer demographics for holistic analysis.
 
 ## ✨ Features / Highlights
-- 🔹 Business Problem
+🔹 Business Problem
 Banks and credit card providers need timely insights into customer behavior, revenue generation, and delinquency patterns. Manual reporting is slow and often fails to provide actionable intelligence.
 
 ## 🔹 Goal of the Dashboard
