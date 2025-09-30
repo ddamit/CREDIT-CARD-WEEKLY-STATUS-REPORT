@@ -72,3 +72,5 @@ Activation Rate: 57.5%
 
 ## Dashboard Image: 
 https://github.com/ddamit/CREDIT-CARD-WEEKLY-STATUS-REPORT/blob/main/Credit_transaction%20_Report_page-0001.jpg
+
+(https://github.com/ddamit/CREDIT-CARD-WEEKLY-STATUS-REPORT/blob/main/Credit_transaction%20_Report_page-0001.jpg).
